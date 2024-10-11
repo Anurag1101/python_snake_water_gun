@@ -25,6 +25,7 @@ Here’s a simplified breakdown:
 **Code Breakdown:**
 
 **Choices:**
+
     1 represents Snake.
     -1 represents Water.
     0 represents Gun.
