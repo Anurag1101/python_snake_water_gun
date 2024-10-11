@@ -22,6 +22,21 @@ Here’s a simplified breakdown:
 - The game compares the player's choice and the computer's choice to decide the outcome.
 - If both choose the same, the game is a draw. Otherwise, the predefined logic determines the winner.
 
+**Code Breakdown:**
+
+**Choices:**
+    1 represents Snake.
+    -1 represents Water.
+    0 represents Gun.
+    
+**Game Logic:**
+
+The player’s choice is converted into a corresponding numeric value using a dictionary (your_dict), and the computer’s choice is generated randomly.
+
+The result is then computed by comparing the two choices:
+    If the player and the computer make the same choice, the game is a draw.
+    If the choices are different, a series of conditional statements determine the winner based on the game’s rules.
+
 ## How to Run the Code:
 1. Clone the repository or download the code.
 2. Ensure you have Python 3.x installed on your system.
