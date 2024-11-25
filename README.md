@@ -1,6 +1,6 @@
 # Snake Water Gun Game
 
-This is a Python implementation of the classic "Snake, Water, Gun" game, similar to Rock-Paper-Scissors. The game is played between the user and the computer.
+This is a Python implementation of the classic `Snake, Water, Gun` game, similar to Rock-Paper-Scissors. The game is played between the user and the computer.
 
 ## Game Rules:
 - **Snake** beats **Water**
